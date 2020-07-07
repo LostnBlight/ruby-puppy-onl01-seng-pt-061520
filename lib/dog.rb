@@ -10,3 +10,6 @@ class Dog
   end
   def self.all
     return @@all.uniq
+  end
+  
+  def 
