@@ -9,4 +9,4 @@ class Dog
     save
   end
   def self.all
-    
+    return @@all.uniq
