@@ -12,4 +12,5 @@ class Dog
     return @@all.uniq
   end
   
-  def 
+  def self.clear_all
+    
