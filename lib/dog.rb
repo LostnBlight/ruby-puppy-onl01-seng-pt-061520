@@ -8,3 +8,4 @@ class Dog
     @@all << self
     save
   end
+  
